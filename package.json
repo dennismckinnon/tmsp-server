@@ -2,7 +2,7 @@
   "name": "tmsp-server",
   "version": "0.0.3",
   "description": "net based TMSP server",
-  "main": "./lib/server.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
