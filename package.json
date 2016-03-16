@@ -1,0 +1,28 @@
+{
+  "name": "tmsp-server",
+  "version": "0.0.1",
+  "description": "net based TMSP server",
+  "main": "./lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennismckinnon/tmsp-server.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "TMSP",
+    "server"
+  ],
+  "author": "dennismckinnon",
+  "license": "MIT",
+  "dependencies": {
+    "js-tmsp": "0.0.10",
+    "js-wire": "0.0.3",
+    "linkedlist": "^1.0.1"
+  }
+}
