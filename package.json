@@ -1,6 +1,6 @@
 {
   "name": "tmsp-server",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "net based TMSP server",
   "main": "./lib/server.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "author": "dennismckinnon",
   "license": "MIT",
   "dependencies": {
-    "js-tmsp": "github:dennismckinnon/js-tmsp#generalize",
+    "js-tmsp": "0.0.10",
     "js-wire": "0.0.3",
     "linkedlist": "^1.0.1"
   },

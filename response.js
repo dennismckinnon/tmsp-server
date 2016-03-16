@@ -1,6 +1,6 @@
 var util = require('util');
 var wire = require("js-wire");
-var types = require("js-tmsp").types;
+var types = require("./types");
 var EventEmitter = require('events').EventEmitter;
 
 var doneListener;

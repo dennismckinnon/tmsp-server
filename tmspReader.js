@@ -1,5 +1,5 @@
 var util = require('util');
-var types = require("js-tmsp").types;
+var types = require("./types");
 var LinkedList = require('linkedlist');
 
 var Transform = require('stream').Transform;
