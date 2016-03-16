@@ -19,7 +19,7 @@
     "server"
   ],
   "author": "dennismckinnon",
-  "license": "MIT",
+  "license": "Apache",
   "dependencies": {
     "js-tmsp": "0.0.10",
     "js-wire": "0.0.3",
