@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dennismckinnon/tmsp-server.git"
+    "url": "git+https://github.com/dennismckinnon/tmsp-server.git"
   },
   "directories": {
     "lib": "lib"
@@ -21,8 +21,13 @@
   "author": "dennismckinnon",
   "license": "MIT",
   "dependencies": {
-    "js-tmsp": "0.0.10",
+    "js-tmsp": "github:dennismckinnon/js-tmsp#generalize",
     "js-wire": "0.0.3",
     "linkedlist": "^1.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/dennismckinnon/tmsp-server/issues"
+  },
+  "homepage": "https://github.com/dennismckinnon/tmsp-server#readme",
+  "devDependencies": {}
 }
