@@ -1,6 +1,6 @@
 {
   "name": "tmsp-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "net based TMSP server",
   "main": "./lib/index.js",
   "scripts": {
